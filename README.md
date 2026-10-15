@@ -13,7 +13,7 @@ I work across Android architecture, product behaviour, testing infrastructure an
 - **Mobile platforms:** Kotlin, Jetpack Compose, Kotlin Multiplatform, modular architecture, Coroutines and Flow.
 - **Engineering quality:** unit and visual-regression testing, accessibility, testable product states and CI workflows.
 - **Developer productivity:** feature-flag tools, configuration tooling and workflows that help developers and QA investigate product behaviour.
-- **AI-assisted engineering:** coding agents, MCP and RAG for codebase exploration, documentation and automation.
+- **AI-assisted engineering:** coding agents, MCP servers and RAG for codebase exploration, documentation and automation.
 
 ## Experience
 
@@ -36,9 +36,9 @@ Earlier Android roles at **The Capitals, Domodi and Ceneo**. [Full career histor
 
 | Project | What it explores |
 |---|---|
-| [GitHub Compose Search](https://github.com/MBratkowski/github-compose-search) | An Android sample for browsing GitHub repositories and commits, with local caching and offline access. Kotlin, Compose, Hilt, Room and Retrofit. |
+| [deweloperuch-mcp](https://github.com/MBratkowski/deweloperuch-mcp) | An unofficial MCP server and CLI for Polish new-build apartment prices: developers' asking prices with history, transaction prices from the Real Estate Price Register (RCN) and GUS/NBP statistics. Thirteen read-only tools behind a rate-limited client, published on [PyPI](https://pypi.org/project/deweloperuch-mcp/) and in the official MCP Registry, with a one-click Claude Desktop extension and a [website](https://mbratkowski.github.io/deweloperuch-mcp-site/) with a visual install guide. Python. |
+| [Plakat](https://github.com/MBratkowski/plakat) | A Chrome extension (Manifest V3) that redraws YouTube thumbnails and channel avatars as generative posters in five design traditions, from Swiss and Bauhaus to a '60s jazz sleeve. Every channel becomes a series and every video a variant of it. No build step, no external services. [Website](https://mbratkowski.github.io/plakat/). JavaScript. |
 | [Koleo MCP](https://github.com/MBratkowski/koleo-mcp) | A Python MCP server exposing Polish railway timetable tools to AI clients. |
-| [Android + Claude Code workflows](https://github.com/MBratkowski/github-runner-tutorial) | An Android sample exploring automated code review, issue triage and implementation workflows through GitHub Actions. |
 
 These are personal projects and experiments. My professional experience is summarised above; the repositories show selected work I can share publicly.
 
@@ -46,7 +46,7 @@ These are personal projects and experiments. My professional experience is summa
 
 **Android:** Kotlin, Java, Compose, Android Views, Coroutines/Flow, Hilt, Koin, Gradle, Ktor, Retrofit, Room and SQLDelight.  
 **Testing and delivery:** JUnit, MockK, AssertJ, Paparazzi, GitLab CI/CD and GitHub Actions.  
-**Beyond mobile:** Python/FastAPI, Go, coding agents, MCP and RAG.
+**Beyond mobile:** Python/FastAPI, Go, JavaScript (Chrome extensions), coding agents, MCP and RAG.
 
 I’m particularly interested in mobile platform work, engineering productivity and practical applications of AI in the development process.
 
